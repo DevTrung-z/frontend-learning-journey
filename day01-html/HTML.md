@@ -66,3 +66,5 @@ Hiểu và bắt buộc dùng khi làm layout:
 id, class — dùng để gắn CSS hoặc JavaScript
 alt — mô tả hình ảnh
 href, src, target, title
+
+DONE!
