@@ -1,6 +1,11 @@
 #Học và bắt đầu lại toàn bộ với kiến thức bằng 0
 
-HTML
+HTML (RoadMap: https://roadmap.sh/html )
+
+1. Mục đích chính của HTML
+
+- HTML là ngôn ngữ đánh dấu (markup) dùng để tạo cấu trúc nội dung cho trang web
+  -> kế bên HTML là Css thứ tạo nên vẻ đẹp cho trang web
 
 1️⃣ Câu trúc cơ bản của HTML
 
